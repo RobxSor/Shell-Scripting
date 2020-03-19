@@ -1,4 +1,4 @@
 # Shell-Scripting-Activity-2
-Shell Scripting using Ubuntu (UNIX)
-Author: Roby Ferrer Soriano
+Shell Scripting using Ubuntu (UNIX) </br>
+Author: Roby Ferrer Soriano </br>
 University: Saint Louis University
